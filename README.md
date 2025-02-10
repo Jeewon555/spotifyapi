@@ -15,6 +15,8 @@ pip install -r requirements.txt --user
 cd client
 npm run dev
 
+
+
 # project 기술
 1. Frontend : React 
 2. Backend : Flask 
