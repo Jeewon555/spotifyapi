@@ -5,6 +5,8 @@
 
 *시현영상
 
+![image](https://github.com/user-attachments/assets/b2997768-098a-4dbf-8bce-ae2750f9f763)
+
 
 
 # 프로젝트 시작 
