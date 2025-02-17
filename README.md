@@ -1,5 +1,5 @@
 # spotifyapi
-https://www.notion.so/Spotipy-16efcb04b5df80c6b1c7fe5994c08313
+
 
 # 프로젝트 소개
 2024 winter Hopy project
@@ -36,6 +36,9 @@ spotifyapi가 제공하는 기능은 다음과 같다.
 # Directory Sturcture
 ![image](https://github.com/user-attachments/assets/986e57c7-20d6-4eb5-bdd0-b1cbccd29fe0)
 
+
+# Notion
+https://www.notion.so/Spotipy-16efcb04b5df80c6b1c7fe5994c08313
 
 
 
